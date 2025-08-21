@@ -5,7 +5,7 @@ public class EditorUser {
 	private final String nome;
 	private final String email;
 	private final String password;
-
+//rqrewrewrew
 	public EditorUser(int id, String nome, String email, String password) {
 		this.id = id;
 		this.nome = nome;
